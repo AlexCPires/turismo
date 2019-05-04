@@ -1393,3 +1393,26 @@ body {
 .jq-selectbox:hover .jq-selectbox__trigger-arrow {
   border-top-color: #149dcc;
 }
+.cid-rpxcsofRNr {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #ffffff;
+}
+.cid-rpxcsofRNr h4 {
+  font-weight: 500;
+  margin-bottom: 0;
+  text-align: left;
+}
+.cid-rpxcsofRNr p {
+  color: #767676;
+  text-align: left;
+}
+.cid-rpxcsofRNr .card-box {
+  padding-top: 2rem;
+}
+.cid-rpxcsofRNr .card-wrapper {
+  height: 100%;
+}
+.cid-rpxcsofRNr P {
+  text-align: center;
+}
